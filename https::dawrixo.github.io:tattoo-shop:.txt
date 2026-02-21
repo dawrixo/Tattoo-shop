@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <title>InkMaster Tattoo Shop</title>
+</head>
+<body>
+ <h1>InkMaster Tattoo Shop</h1>
+ <p>Welcome! Check out our latest tattoo designs and catalog.</p>
+ <p><a href="article.html">See New Tattoo Collection</a></p>
+ <p><a href="tattoo_catalog.pdf" target="_blank">Download PDF Catalog</a></p>
+ <p>Inspiration: <a href="https://www.tattoodo.com/" target="_blank">Tattoodo</a></p>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <title>New Tattoo Collection</title>
+</head>
+<body>
+ <h1>New Tattoo Collection</h1>
+ <p>At InkMaster Tattoo Shop, we have completed a unique collection of minimalist tattoos. Each design highlights the individuality of our clients.</p>
+ <p><a href="index.html">Back to Homepage</a></p>
+</body>
+</html>
